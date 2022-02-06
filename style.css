@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing:border-box;
     text-decoration: none;
+    
 }
 
 body{
@@ -69,14 +70,6 @@ body{
     margin-left: 30px;
     font-size: 13px;
 }
-
-
-
-
-
-
-
-
 .conteudo-direita{
     width: 60%;
     height: 100vh;
@@ -135,4 +128,6 @@ body{
     border-radius: 10px;
     margin-top: 5px;
 }
-
+.footer-mobile{
+    display: none;
+}
