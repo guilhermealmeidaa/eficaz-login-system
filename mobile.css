@@ -11,6 +11,36 @@
 }
 .conteudo-esquerda-escrito-alerta{
     color: #b3b3b3;
-    font-size: 15px;
+    font-size: 12px;
     margin-bottom: 50px;
 }
+.conteudo-esquerda-imagem{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+.conteudo-esquerda-escrito-contato{
+    display: none;
+}
+.conteudo-direita-container{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+.footer-mobile{
+    display: block;
+    margin-top: 100px;
+    color: #363336;
+    margin-left: 30px;
+    font-size: 13px;
+}
+.form-caixa{
+    width: 380px;
+    height: 40px;
+}
+.form-botao{
+    cursor: pointer;
+    width: 380px;
+    height: 60px;
+}
+    
